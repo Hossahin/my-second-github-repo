@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.heading{
+    font-weight: 700;
+    color: tomato;
+}
